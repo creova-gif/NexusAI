@@ -137,8 +137,9 @@ export default function LandingPage() {
             { label: "Advisory", href: "#advisory" },
             { label: "Government", href: "#government" },
             { label: "Pricing", href: "#pricing" },
+            { label: "Product Tour", href: "/tour" },
           ].map((item, idx) => (
-            <a key={item.label} href={item.href} className={`px-4 py-1.5 text-xs font-medium rounded-full cursor-pointer transition-all no-underline ${idx === 0 ? "bg-[var(--glass3)] text-[var(--t1)]" : "text-[var(--t2)] hover:bg-[var(--glass3)] hover:text-[var(--t1)]"}`}>
+            <a key={item.label} href={item.href} className={`px-4 py-1.5 text-xs font-medium rounded-full cursor-pointer transition-all no-underline ${idx === 6 ? "bg-[rgba(139,92,246,0.25)] text-[var(--brand-hi)] border-[0.5px] border-[rgba(139,92,246,0.4)]" : idx === 0 ? "bg-[var(--glass3)] text-[var(--t1)]" : "text-[var(--t2)] hover:bg-[var(--glass3)] hover:text-[var(--t1)]"}`}>
               {item.label}
             </a>
           ))}

@@ -5,7 +5,7 @@ import {
   TrendingUp, Laptop, Activity, Settings as SettingsIcon,
   Bell, User, MoreHorizontal, Search, LogOut,
   UserSquare2, Newspaper, Building2, Send,
-  Bot, Bitcoin, Share2, ScanFace,
+  Bot, Bitcoin, Share2, ScanFace, Play,
   MessageSquare, Workflow, ClipboardCheck
 } from "lucide-react";
 
@@ -65,6 +65,7 @@ export default function DashboardLayout({
     { id: "crypto-graph", label: "Crypto Forensics", icon: Bitcoin, path: "/crypto-graph" },
     { id: "federated", label: "Federated Learning", icon: Share2, path: "/federated" },
     { id: "deepfake", label: "Deepfake Detection", icon: ScanFace, path: "/deepfake", badge: { text: "NEW", color: "green" } },
+    { id: "tour", label: "Product Tour", icon: Play, path: "/tour", badge: { text: "TOUR", color: "purple" } },
   ];
 
   const operationsLinks: NavLink[] = [

@@ -25,12 +25,14 @@ import DeepfakeDetection from "./pages/DeepfakeDetection";
 import CommHub from "./pages/CommHub";
 import WorkflowBuilder from "./pages/WorkflowBuilder";
 import MakerChecker from "./pages/MakerChecker";
+import ProductTour from "./pages/ProductTour";
 
 export default function App() {
   return (
     <>
       <Switch>
         <Route path="/" component={LandingPage} />
+        <Route path="/tour" component={ProductTour} />
         <Route path="/dashboard" component={ComplianceDashboard} />
         <Route path="/compliance" component={ComplianceDashboard} />
         <Route path="/alerts" component={AMLAlerts} />
