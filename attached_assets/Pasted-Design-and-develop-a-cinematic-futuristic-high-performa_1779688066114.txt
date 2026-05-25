@@ -1,0 +1,72 @@
+Design and develop a cinematic, futuristic, high-performance website experience powered by advanced 3D motion graphics, immersive scroll interactions, and interactive IoT blueprint visualizations. The website should feel like a next-generation technology ecosystem rather than a traditional website.
+
+Create dynamic blueprint-style IoT systems that visually assemble themselves as the user scrolls through the page. Every section should trigger animated construction sequences where components, circuits, sensors, devices, nodes, cables, AI systems, robotics, and infrastructure pieces gradually build in real time using motion choreography, particle effects, glowing wireframes, and layered depth animations.
+
+The experience should include:
+
+* 3D motion graphics
+* Real-time assembly animations
+* Interactive blueprint systems
+* Exploded-view device animations
+* Scroll-driven storytelling
+* Cinematic transitions
+* Dynamic camera movements
+* Holographic UI overlays
+* AI network visualizations
+* Floating data systems
+* Animated IoT architecture maps
+* Mechanical assembly sequences
+* Cybernetic infrastructure visuals
+* Motion-reactive lighting
+* Physics-based interactions
+* Futuristic dashboards
+* Immersive ecosystem simulations
+* Environmental depth effects
+* Responsive parallax layers
+* Advanced particle systems
+* Procedural animation sequences
+
+As users scroll:
+
+* Devices should assemble piece-by-piece
+* Blueprint lines should draw themselves dynamically
+* Components should connect through animated data flows
+* Sensors and chips should activate with glowing energy effects
+* Infrastructure systems should transition from wireframe to fully rendered 3D objects
+* Entire IoT ecosystems should evolve progressively section-by-section
+
+The visual direction should combine:
+
+* Futuristic engineering blueprints
+* Cyberpunk-inspired interfaces
+* Apple-level smoothness
+* Tesla/SpaceX product reveal energy
+* Industrial innovation aesthetics
+* AI-native visual systems
+* Sci-fi motion storytelling
+* Advanced startup presentation quality
+
+Use modern technologies and frameworks such as:
+
+* Three.js
+* React Three Fiber
+* GSAP
+* Framer Motion
+* WebGL
+* Shader effects
+* ScrollTrigger
+* Lottie
+* Spline
+* GPU-accelerated rendering
+
+The final experience must be:
+
+* Fully responsive
+* Highly optimized
+* Mobile-aware
+* Performance-efficient
+* SEO-conscious
+* Accessible
+* Scalable for future product ecosystems
+
+The website should feel alive — like users are scrolling through the digital construction of an intelligent connected world in real time.
