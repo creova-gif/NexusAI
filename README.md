@@ -17,7 +17,7 @@ A comprehensive AI-powered banking platform designed for Canadian financial inst
 NexusAI is a unified banking assistant platform that addresses critical challenges in the Canadian banking sector:
 - **Enhanced AML & Fraud Detection** - Real-time suspicious activity monitoring with AI-powered risk scoring
 - **Graph-Based Transaction Network Analysis** - Visualize and detect money laundering rings across accounts
-- **Open Banking Infrastructure** - CDBA Phase 1 compliant API-first architecture
+- **Open Banking Infrastructure** - API-first architecture designed around open banking principles (no formal CDBA/regulatory certification exists — treat as an architectural goal, not a compliance claim)
 - **Government-Grade Security** - Built for Canadian banks, fintechs, and federal institutions
 
 ## Features
